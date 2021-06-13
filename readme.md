@@ -24,10 +24,15 @@ The expression ”News travels fast”, is often taken literally;however, how mu
 ## Visualization
 
 ![Spread of like news sources from Kitimat, BC](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/Kitimat.png)
+
 The spread and scope of original news stories published in Kitimat, British Columbia, Canada
+
 ![Spread of like news sources from Prince George, BC](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/princeGeorge.png)
+
 The spread and scope of original news stories published in Prince George, British Columbia, Canada
+
 ![Spread of like news sources from Winnipeg, MB](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/Winnipeg.png)
+
 The spread and scope of original news stories published in Winnipeg, Manitoba, Canada
 
 
