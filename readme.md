@@ -1,4 +1,4 @@
-#News Travels?
+# News Travels?
 
 --- 
 
@@ -22,5 +22,7 @@ The expression ”News travels fast”, is often taken literally;however, how mu
 ---
 
 ## Viusalization
+
+
 
 
