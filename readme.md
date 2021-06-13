@@ -12,7 +12,7 @@ The expression ”News travels fast”, is often taken literally;however, how mu
 
 ## Methodology
 
-* Given an inital location, local news publishers are found
+* Given an initial location, local news publishers are found
 * Every found publisher site is scraped for current news articles
 * Through a user provided radius, cities within the area are found
 * These cities local news publishers are also found and scraped.
@@ -23,6 +23,9 @@ The expression ”News travels fast”, is often taken literally;however, how mu
 
 ## Viusalization
 
+![Spread of like news sources from Kitimat, BC](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/Kitimat.png)
+![Spread of like news sources from Prince George, BC](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/princeGeorge.png)
+![Spread of like news sources from Winnipeg, MB](https://raw.githubusercontent.com/Daniel-OReilly/Tracking-the-Spread-of-News/master/images/Winnipeg.png)
 
 
 
